@@ -1,0 +1,5 @@
+projectKey=teste-unitario
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/teste-unitario
+ceTaskId=AVfnc4QZyqEK3NWb7Dbe
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVfnc4QZyqEK3NWb7Dbe
